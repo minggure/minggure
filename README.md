@@ -40,3 +40,11 @@
 - 동시 요청에서도 깨지지 않는 **데이터 정합성**
 - 장애를 숨기지 않고 안전하게 멈추고 복구하는 **운영 설계**
 - 팀이 빠르게 실행하고 검증할 수 있는 **명확한 개발 환경과 문서**
+
+## Contribution Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minggure/minggure/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minggure/minggure/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/minggure/minggure/output/github-contribution-grid-snake.svg" />
+</picture>
