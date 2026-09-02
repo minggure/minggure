@@ -3,7 +3,7 @@
 안녕하세요. Java와 Spring Boot로 백엔드를 개발하고 있습니다.  
 기능을 만드는 데서 끝내지 않고, 요청이 몰릴 때도 데이터가 어긋나지 않는지, 장애가 생긴 뒤에는 어떻게 안전하게 복구할지를 함께 고민합니다.
 
-
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 ## Projects
 
 ### [CLUTCH](https://github.com/seok-cess/Clutch-BE) | 경기 이벤트 기반 선착순 쿠폰 서비스
