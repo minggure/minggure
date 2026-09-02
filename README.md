@@ -3,7 +3,6 @@
 안녕하세요. Java와 Spring Boot로 백엔드를 개발하고 있습니다.  
 기능을 만드는 데서 끝내지 않고, 요청이 몰릴 때도 데이터가 어긋나지 않는지, 장애가 생긴 뒤에는 어떻게 안전하게 복구할지를 함께 고민합니다.
 
-[![Portfolio PDF](https://img.shields.io/badge/PDF_Portfolio-프로젝트_경험-5B62D6?style=for-the-badge)](portfolio/jeon-mingyu-backend-portfolio.pdf)
 
 ## Projects
 
